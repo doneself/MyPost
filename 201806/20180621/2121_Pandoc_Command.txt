@@ -1,0 +1,11 @@
+pandoc -f html -t gfm -o 
+
+
+pandoc -f html -t gfm -o 2122_IIS_绑定_HTTPS_域名.md https://www.cnblogs.com/ubshoes/p/9161881.html
+
+https://www.cnblogs.com/SmileIven/p/9140442.html
+
+
+pandoc -f html -t gfm -o 2130_NET-ORM框架EF-Code_First代码优先.md https://www.cnblogs.com/SmileIven/p/9140442.html
+
+pandoc -f html -t gfm -o 2134_通过http上下文判断是否是Ajax请求.md https://www.cnblogs.com/tangchun/p/9121334.html
